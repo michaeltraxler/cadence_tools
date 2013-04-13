@@ -1,6 +1,6 @@
 #!/usr/bin/perl -w
 
-## This programs extracts a "ucf" or pin-file from an orcad
+## This programs produces a "lpf" or pin-file from an orcad
 ## so called "wire-list"
 
 
