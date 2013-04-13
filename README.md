@@ -11,4 +11,4 @@ cadence/lattice/xilinx tools.
 
 * find_resistor_pair.pl:  
   simple tool to find a resistor pair for a certain formular and required
-  output volrage
+  output voltage
